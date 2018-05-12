@@ -1,0 +1,34 @@
+_repo: Carmen_34643
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Jong, Jacob de
+    gutenberg_agent_id: '37145'
+    url: http://www.gutenberg.org/2009/agents/37145
+covers:
+- cover_type: archival
+  image_path: 34643-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mérimée, Prosper
+    alias: Merimee, Prosper
+    birthdate: 1803
+    deathdate: 1870
+    gutenberg_agent_id: '920'
+    url: http://www.gutenberg.org/2009/agents/920
+    wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
+description: ''
+gutenberg_issued: '2010-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34643'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Carmen (Fictitious character) -- Fiction'
+- !lcsh 'Spain -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+title: Carmen
+url: http://www.gutenberg.org/ebooks/34643
